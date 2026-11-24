@@ -82,6 +82,12 @@ header {
   color: #071b1a;
   font-weight: bold;
 }
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn:visited {
+  color: #071b1a;
+}
 
 .section {
   padding: 40px 0;
